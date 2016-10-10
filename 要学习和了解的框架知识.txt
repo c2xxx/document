@@ -1,0 +1,16 @@
+1、butterknife--OK
+2、retrofit
+3、rxjava
+4、bugly
+5、litepal
+6、65536方法数问题
+7、自建代码库
+8、databinding
+9、软引用WeakRefrence
+10、图片Fresco,Glide,Piscao
+11、MVP（http://blog.csdn.net/dantestones/article/details/51445208#t10）
+12、AndroidAnnotation
+13、eventbus
+14、依赖注入
+15、插件化开发
+16、h5开发应用
